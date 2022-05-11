@@ -1,9 +1,9 @@
 
 ```
-I am a software developer from Buenos Aires, Argentina. 
+I'm a software developer from Buenos Aires, Argentina. 
 Currently studying a degree in systems in UNLa. I really enjoy both designing user interfaces and 
 developing server-side code. 
-Lately I am specializing in web development.
+Lately I'm specializing in web development.
 When I'm not coding, i do other activities like playing guitar and drawing.
 ```
 
